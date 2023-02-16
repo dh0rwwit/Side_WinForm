@@ -1,0 +1,14 @@
+C:\C#\Button_01\bin\Debug\Button_01.exe.config
+C:\C#\Button_01\bin\Debug\Button_01.exe
+C:\C#\Button_01\bin\Debug\Button_01.pdb
+C:\C#\Button_01\obj\Debug\Button_01.csproj.AssemblyReference.cache
+C:\C#\Button_01\obj\Debug\Button_01.csproj.SuggestedBindingRedirects.cache
+C:\C#\Button_01\obj\Debug\Button_01.Properties.Resources.resources
+C:\C#\Button_01\obj\Debug\Button_01.csproj.GenerateResource.cache
+C:\C#\Button_01\obj\Debug\Button_01.csproj.CoreCompileInputs.cache
+C:\C#\Button_01\obj\Debug\Button_01.exe
+C:\C#\Button_01\obj\Debug\Button_01.pdb
+C:\C#\Button_01\obj\Debug\Button_01.Form1.resources
+C:\Users\dongh\Desktop\새 폴더\Button_01.exe.config
+C:\Users\dongh\Desktop\새 폴더\Button_01.exe
+C:\Users\dongh\Desktop\새 폴더\Button_01.pdb
