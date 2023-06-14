@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Configuration;
+using Oracle.ManagedDataAccess.Client;
+// 우측에 Manage Nuget Packages...클릭
 
 namespace Button_01
 {
@@ -19,4 +22,6 @@ namespace Button_01
             Application.Run(new Form1());
         }
     }
+
+    
 }
